@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "DiamondWingsSMP.aternos.me",
+    "ip": "DiamondWingsSMP.aternos.me:14703",
     "port": 14703,
     "version": "",
     "try-creative": false
